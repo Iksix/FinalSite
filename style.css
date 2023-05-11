@@ -137,6 +137,16 @@ body {
 .asort__item.nontype {
     list-style-type: none;
 }
+.link {
+    color: aqua;
+}
+.link:hover {
+    color: rgb(0, 174, 255);
+}
+.header__img {
+    margin-top: 4rem;
+}
+
 
 @media screen and (max-width: 425px) {
     .main {
